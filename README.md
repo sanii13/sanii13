@@ -6,6 +6,7 @@
 - 📈 Always eager to **learn**, **collaborate**, and **contribute** to meaningful and innovative projects  
 - ⚡ *Fun fact:* I enjoy turning complex ideas into practical systems that make a real-world difference
   
+![Sanii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanii13&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanii13&theme=dark)](https://git.io/streak-stats)
 
 <!--
