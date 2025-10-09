@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<h2> Hi, I'm Sanidi Sisara! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+- 💻 **3rd Year Undergraduate** pursuing a *BSc. (Hons) in Information Technology* at the **University of Moratuwa**  
+- 🌐 Skilled in **Web Application Development** with hands-on experience in **Next.js (TypeScript)** and **Spring Boot**  
+- 📈 Always eager to **learn**, **collaborate**, and **contribute** to meaningful and innovative projects  
+- ⚡ *Fun fact:* I enjoy turning complex ideas into practical systems that make a real-world difference
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanii13&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **sanii13/sanii13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
